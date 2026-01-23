@@ -1,0 +1,112 @@
+input,normalized,decision,kegg_id,kegg_desc,kegg_name_best,score,formula,exact_mass,flags,match_note
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C02477,alpha-Tocopherol; Vitamin E,alpha-Tocopherol,1,C29H50O2,430.3811,,from_query=alpha-Tocopherol
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C13202,alpha-Tocopherol acetate; Tocopherol acetate,alpha-Tocopherol acetate,1,C31H52O3,472.3916,,from_query=alpha-Tocopherol
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C02483,gamma-Tocopherol,gamma-Tocopherol,0.8125,C28H48O2,416.3654,,from_query=Tocopherol
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C14151,delta-Tocopherol,delta-Tocopherol,0.8125,C27H46O2,402.3498,,from_query=Tocopherol
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C14152,beta-Tocopherol,beta-Tocopherol,0.8,C28H48O2,416.3654,,from_query=Tocopherol
+alpha-Tocopherol,Tocopherol,ambiguous,cpd:C12981,dl-alpha-Tocopherol nicotinate; Tocopheryl nicotinate,dl-alpha-Tocopherol nicotinate,0.6957,C35H53NO3,535.4025,,from_query=alpha-Tocopherol
+1-Methoxyphaseollidin,1-Methoxyphaseollidin,no_hit,,,,,,,,no candidates returned by KEGG find
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C00117,D-Ribose 5-phosphate; Ribose 5-phosphate,D-Ribose 5-phosphate,1,C5H11O8P,230.0192,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C01095,D-Ribose 5-diphosphate,D-Ribose 5-diphosphate,0.9524,C5H12O11P2,309.9855,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C02884,Ribose triphosphate; D-Ribose 5-triphosphate,Ribose triphosphate,0.9302,C5H13O14P3,389.9518,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C01151,"D-Ribose 1,5-bisphosphate; Ribose 1,5-bisphosphate; alpha-D-Ribose 1,5-bisphosphate","D-Ribose 1,5-bisphosphate",0.8889,C5H12O11P2,309.9855,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C20986,"D-Ribose 2,5-bisphosphate","D-Ribose 2,5-bisphosphate",0.8889,C5H12O11P2,309.9855,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C03736,alpha-D-Ribose 5-phosphate,alpha-D-Ribose 5-phosphate,0.8696,C5H11O8P,230.0192,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C00673,2-Deoxy-D-ribose 5-phosphate,2-Deoxy-D-ribose 5-phosphate,0.8333,C5H11O7P,214.0242,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C19851,"ADP-ribose 1'',2''-phosphate; ADP-ribose 1"",2""-cyclic phosphate","ADP-ribose 1'',2''-phosphate",0.7917,C15H22N5O16P3,621.0274,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C16637,5-Deoxyribose-1-phosphate; 5-Deoxy-alpha-D-ribose-1-phosphate,5-Deoxyribose-1-phosphate,0.7907,C5H11O7P,214.0242,,from_query=Ribose 5 phosphate
+D-Ribose 5-phosphate,Ribose 5-phosphate,ambiguous,cpd:C20423,alpha-D-Ribose 1-methylphosphonate 5-phosphate,alpha-D-Ribose 1-methylphosphonate 5-phosphate,0.7586,C6H14O10P2,308.0062,,from_query=Ribose 5 phosphate
+4-Hydroxycinnamic acid,4-Hydroxycinnamic acid,exact,cpd:C00811,4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate,4-Coumarate,1,C9H8O3,164.0473,,from_query=4 Hydroxycinnamic acid
+4-Hydroxycinnamic acid,4-Hydroxycinnamic acid,exact,cpd:C01481,"Caffeate; Caffeic acid; 3,4-Dihydroxycinnamic acid",Caffeate,0.9167,C9H8O4,180.0423,,from_query=4 Hydroxycinnamic acid
+4-Hydroxycinnamic acid,4-Hydroxycinnamic acid,exact,cpd:C18089,"2',4'-Dihydroxycinnamic acid","2',4'-Dihydroxycinnamic acid",0.88,C8H7O2R,,,from_query=4 Hydroxycinnamic acid
+4-Hydroxycinnamic acid,4-Hydroxycinnamic acid,exact,cpd:C00482,"Sinapate; Sinapic acid; 3,5-Dimethoxy-4-hydroxycinnamic acid",Sinapate,0.7586,C11H12O5,224.0685,,from_query=4 Hydroxycinnamic acid
+Dihydronaringenin-O-sulphate,Dihydronaringenin-O-sulphate,no_hit,,,,,,,,no candidates returned by KEGG find
+Pyridoxamine,Pyridoxamine,ambiguous,cpd:C00534,Pyridoxamine; PM,Pyridoxamine,1,C8H12N2O2,168.0899,,from_query=Pyridoxamine
+Pyridoxamine,Pyridoxamine,ambiguous,cpd:C00647,Pyridoxamine phosphate; Pyridoxamine 5'-phosphate; Pyridoxamine 5-phosphate,Pyridoxamine phosphate,1,C8H13N2O5P,248.0562,,from_query=Pyridoxamine
+sphingosylphosphorylcholine,sphingosylphosphorylcholine,no_hit,,,,,,,,no candidates returned by KEGG find
+Eplerenone,Eplerenone,exact,cpd:C12512,Eplerenone,Eplerenone,1,C24H30O6,414.2042,,from_query=Eplerenone
+Cervonyl carnitine,Cervonyl carnitine,no_hit,,,,,,,,no candidates returned by KEGG find
+Indirubin,Indirubin,no_hit,,,,,,,,no candidates returned by KEGG find
+cetrimonium,cetrimonium,exact,cpd:C11275,Cetyltrimethylammonium bromide; Cetrimonium bromide; Trimethylcetylammonium bromide; Hexadecanyltrimethylammonium bromide; CTAB,Cetyltrimethylammonium bromide,1,C19H42N. Br,363.2501,,from_query=cetrimonium
+SM(d18:1/16:1(9Z)),SM d18:1/16:1 9Z,no_hit,,,,,,,,no candidates returned by KEGG find
+PS(18:0/18:0),PS 18:0/18:0,no_hit,,,,,,,,no candidates returned by KEGG find
+didecyldimethylammonium,didecyldimethylammonium,exact,cpd:C15436,"Didecyldimethylammonium chloride; N-Decyl-N,N-dimethyl-1-decanaminium chloride",Didecyldimethylammonium chloride,1,C22H48N. Cl,361.3475,,from_query=didecyldimethylammonium
+PC(14:0/16:0),PC 14:0/16:0,no_hit,,,,,,,,no candidates returned by KEGG find
+15beta-Hydroxydesogestrel,15beta-Hydroxydesogestrel,no_hit,,,,,,,,no candidates returned by KEGG find
+3-Methylhistidine,3-Methylhistidine,exact,cpd:C01152,N(pi)-Methyl-L-histidine; N-pros-Methyl-L-histidine; 3-Methylhistidine; 1-Methylhistidine,N(pi)-Methyl-L-histidine,1,C7H11N3O2,169.0851,,from_query=3 Methylhistidine
+3-Methylhistidine,3-Methylhistidine,exact,cpd:C03298,Nalpha-Methylhistidine; N-Methyl-L-histidine,Nalpha-Methylhistidine,0.8649,C7H11N3O2,169.0851,,from_query=3 Methylhistidine
+Erythronic acid,Erythronic acid,no_hit,,,,,,,,no candidates returned by KEGG find
+Porphobilinogen,Porphobilinogen,exact,cpd:C00931,Porphobilinogen,Porphobilinogen,1,C10H14N2O4,226.0954,,from_query=Porphobilinogen
+Cer(d18:0/16:0),Cer d18:0/16:0,no_hit,,,,,,,,no candidates returned by KEGG find
+6-Keto-decanoylcarnitine,6-Keto-decanoylcarnitine,no_hit,,,,,,,,no candidates returned by KEGG find
+Pyruvaldehyde,Pyruvaldehyde,exact,cpd:C00546,Methylglyoxal; Pyruvaldehyde; Pyruvic aldehyde; 2-Ketopropionaldehyde; 2-Oxopropanal,Methylglyoxal,1,C3H4O2,72.0211,,from_query=Pyruvaldehyde
+Pyruvaldehyde,Pyruvaldehyde,exact,cpd:C16849,"Hydroxypyruvaldehyde phosphate; 2,3-Dioxopropyl phosphate",Hydroxypyruvaldehyde phosphate,0.6047,C3H5O6P,167.9824,,from_query=Pyruvaldehyde
+"PC(16:0/18:4(6Z,9Z,12Z,15Z))",PC 16:0/18:4 6Z 9Z 12Z 15Z,no_hit,,,,,,,,no candidates returned by KEGG find
+5-Hydroxymethyl-4-methyluracil,5-Hydroxymethyl-4-methyluracil,no_hit,,,,,,,,no candidates returned by KEGG find
+2-Aminonicotinic acid,2-Aminonicotinic acid,no_hit,,,,,,,,no candidates returned by KEGG find
+PG(18:1(9Z)/18:1(9Z)),PG 18:1 9Z /18:1 9Z,no_hit,,,,,,,,no candidates returned by KEGG find
+Pyridoxal,Pyridoxal,ambiguous,cpd:C00018,Pyridoxal phosphate; Pyridoxal 5'-phosphate; Pyridoxal 5-phosphate; PLP,Pyridoxal phosphate,1,C8H10NO6P,247.0246,,from_query=Pyridoxal
+Pyridoxal,Pyridoxal,ambiguous,cpd:C00250,Pyridoxal,Pyridoxal,1,C8H9NO3,167.0582,,from_query=Pyridoxal
+Pyridoxal,Pyridoxal,ambiguous,cpd:C06051,Isopyridoxal,Isopyridoxal,0.8571,C8H9NO3,167.0582,,from_query=Pyridoxal
+Pyridoxal,Pyridoxal,ambiguous,cpd:C13745,"Pyridoxalphosphate-6-azophenyl-2',4'-disulfonic acid; PPADS","Pyridoxalphosphate-6-azophenyl-2',4'-disulfonic acid",0.2951,C14H14N3O12PS2,510.9757,,from_query=Pyridoxal
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03189,DL-Glycerol 1-phosphate; Glycerol 1-phosphate; Glycerol-3-phosphate; rac-Glycerol 1-phosphate; DL-Glyceryl 1-phosphate; DL-Glycerol 3-phosphate,DL-Glycerol 1-phosphate,1,C3H9O6P,172.0137,,from_query=Glycerol-3-phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03947,"Glycerol 1,2-cyclic phosphate; 1,3,2-Dioxaphospholane-4-methanol","Glycerol 1,2-cyclic phosphate",0.9474,C3H7O5P,154.0031,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C00093,sn-Glycerol 3-phosphate; Glycerophosphoric acid; D-Glycerol 1-phosphate,sn-Glycerol 3-phosphate,0.9302,C3H9O6P,172.0137,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C00623,sn-Glycerol 1-phosphate; sn-Gro-1-P; L-Glycerol 1-phosphate,sn-Glycerol 1-phosphate,0.9048,C3H9O6P,172.0137,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03849,Acyl-sn-glycerol 3-phosphate,Acyl-sn-glycerol 3-phosphate,0.8333,,,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03506,"Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate",Indoleglycerol phosphate,0.8182,C11H14NO6P,287.0559,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C00681,1-Acyl-sn-glycerol 3-phosphate; 2-Lysophosphatidate; Lysophosphatidate; Lysophosphatidic acid,1-Acyl-sn-glycerol 3-phosphate,0.8,C4H8O7PR,,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03974,2-Acyl-sn-glycerol 3-phosphate,2-Acyl-sn-glycerol 3-phosphate,0.8,C4H8O7PR,,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C03968,1-Alkyl-sn-glycero-3-phosphate; 1-Alkyl-sn-glycerol 3-phosphate; 1-O-Alkyl-sn-glycerol 3-phosphate,1-Alkyl-sn-glycero-3-phosphate,0.7843,C3H8O6PR,,,from_query=Glycerol 3 phosphate
+Glycerol 3-phosphate,Glycerol 3-phosphate,ambiguous,cpd:C04036,1-Palmitoylglycerol 3-phosphate; 1-Hexadecanoyl-sn-glycero-3-phosphate,1-Palmitoylglycerol 3-phosphate,0.7843,C19H39O7P,410.2433,,from_query=Glycerol 3 phosphate
+Pentadecadienoic acid,Pentadecadienoic acid,no_hit,,,,,,,,no candidates returned by KEGG find
+SM(d18:1/20:0),SM d18:1/20:0,no_hit,,,,,,,,no candidates returned by KEGG find
+Mevalonic acid,Mevalonic acid,exact,cpd:C00418,"(R)-Mevalonate; Mevalonic acid; 3,5-Dihydroxy-3-methylvaleric acid; (3R)-3,5-Dihydroxy-3-methylpentanoic acid; (R)-Mevalonic acid",(R)-Mevalonate,1,C6H12O4,148.0736,,from_query=Mevalonic acid
+Mevalonic acid,Mevalonic acid,exact,cpd:C02104,"(S)-Mevalonate; (S)-Mevalonic acid; (S)-3,5-Dihydroxy-3-methylvaleric acid",(S)-Mevalonate,0.875,C6H12O4,148.0736,,from_query=Mevalonic acid
+Mevalonic acid,Mevalonic acid,exact,cpd:C01107,(R)-5-Phosphomevalonate; (R)-5-Phosphomevalonic acid; (R)-Mevalonic acid 5-phosphate,(R)-5-Phosphomevalonate,0.6829,C6H13O7P,228.0399,,from_query=Mevalonic acid
+Mevalonic acid,Mevalonic acid,exact,cpd:C01143,(R)-5-Diphosphomevalonate; (R)-5-Diphosphomevalonic acid,(R)-5-Diphosphomevalonate,0.6512,C6H14O10P2,308.0062,,from_query=Mevalonic acid
+Cyclodopa glucoside,Cyclodopa glucoside,no_hit,,,,,,,,no candidates returned by KEGG find
+Flurandrenolide,Flurandrenolide,no_hit,,,,,,,,no candidates returned by KEGG find
+Aspartylglycosamine,Aspartylglycosamine,no_hit,,,,,,,,no candidates returned by KEGG find
+3-Methylglutaconic acid,3-Methylglutaconic acid,no_hit,,,,,,,,no candidates returned by KEGG find
+Bosentan,Bosentan,no_hit,,,,,,,,no candidates returned by KEGG find
+Barbital,Barbital,ambiguous,cpd:C07536,Amobarbital,Amobarbital,0.8421,C11H18N2O3,226.1317,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C07826,Aprobarbital,Aprobarbital,0.8,C10H14N2O3,210.1004,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C07827,Butabarbital,Butabarbital,0.8,C10H16N2O3,212.1161,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C11723,Hexobarbitone; Hexobarbital,Hexobarbitone,0.8,C12H16N2O3,236.1161,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C07422,"Pentobarbital; 5-Ethyl-5-(1-methylbutyl)-2,4,6(1H,3H,5H)-pyrimidinetrione",Pentobarbital,0.7619,C11H18N2O3,226.1317,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C07434,Phenobarbital,Phenobarbital,0.7619,C12H12N2O3,232.0848,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C07829,Mephobarbital,Mephobarbital,0.7619,C13H14N2O3,246.1004,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C17722,Narcobarbital,Narcobarbital,0.7619,C11H15BrN2O3,302.0266,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C17725,Heptabarbital,Heptabarbital,0.7619,C13H18N2O3,250.1317,,from_query=Barbital
+Barbital,Barbital,ambiguous,cpd:C02517,3-Oxohexobarbital,3-Oxohexobarbital,0.64,C12H15N2O4,251.1032,,from_query=Barbital
+Ketamine,Ketamine,ambiguous,cpd:C07525,Ketamine,Ketamine,1,C13H16ClNO,237.092,,from_query=Ketamine
+Ketamine,Ketamine,ambiguous,cpd:C07843,Ketamine hydrochloride,Ketamine hydrochloride,1,C13H16ClNO. HCl,273.0687,,from_query=Ketamine
+Ketamine,Ketamine,ambiguous,cpd:C22999,2-Fluorodeschloroketamine; Fluoroketamine; 2-(2-Fluorophenyl)-2-(methylamino)cyclohexanone,2-Fluorodeschloroketamine,0.7273,C13H16FNO,221.1216,,from_query=Ketamine
+"PC(18:3(9Z,12Z,15Z)/19:1(9Z))",PC 18:3 9Z 12Z 15Z /19:1 9Z,no_hit,,,,,,,,no candidates returned by KEGG find
+Caprylic acid,Caprylic acid,exact,cpd:C06423,Octanoic acid; Caprylic acid; Octylic acid; Octanoate,Octanoic acid,1,C8H16O2,144.115,,from_query=Caprylic acid
+Maleimide,Maleimide,exact,cpd:C07272,"Maleimide; 2,5-Pyrroledione",Maleimide,1,C4H3NO2,97.0164,,from_query=Maleimide
+Maleimide,Maleimide,exact,cpd:C02441,N-Ethylmaleimide,N-Ethylmaleimide,0.72,C6H7NO2,125.0477,,from_query=Maleimide
+Maleimide,Maleimide,exact,cpd:C11238,GF 109203X; Bisindolylmaleimide I,GF 109203X,0.6,C25H24N4O2,412.1899,,from_query=Maleimide
+Maleimide,Maleimide,exact,cpd:C11370,N-Ethylmaleimide-S-glutathione,N-Ethylmaleimide-S-glutathione,0.4615,C16H22N4O8S,430.1158,,from_query=Maleimide
+L-Dihydroorotic acid,Dihydroorotic acid,exact,cpd:C00337,"(S)-Dihydroorotate; (S)-4,5-Dihydroorotate; L-Dihydroorotate; L-Dihydroorotic acid; Dihydro-L-orotic acid",(S)-Dihydroorotate,1,C5H6N2O4,158.0328,,from_query=L-Dihydroorotic acid
+2-Hydroxybenzaldehyde,2-Hydroxybenzaldehyde,exact,cpd:C06202,Salicylaldehyde; o-Hydroxybenzaldehyde; 2-Hydroxybenzaldehyde,Salicylaldehyde,1,C7H6O2,122.0368,,from_query=2 Hydroxybenzaldehyde
+2-Hydroxybenzaldehyde,2-Hydroxybenzaldehyde,exact,cpd:C05585,"Gentisate aldehyde; 2,5-Dihydroxybenzaldehyde",Gentisate aldehyde,0.913,C7H6O3,138.0317,,from_query=2 Hydroxybenzaldehyde
+2-Hydroxybenzaldehyde,2-Hydroxybenzaldehyde,exact,cpd:C12459,3-Dimethylallyl-4-hydroxybenzaldehyde,3-Dimethylallyl-4-hydroxybenzaldehyde,0.6897,C12H14O2,190.0994,,from_query=2 Hydroxybenzaldehyde
+p-Acetaminobenzaldehyde,p-Acetaminobenzaldehyde,no_hit,,,,,,,,no candidates returned by KEGG find
+4-Dodecylbenzenesulfonic acid,4-Dodecylbenzenesulfonic acid,no_hit,,,,,,,,no candidates returned by KEGG find
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C00140,N-Acetyl-D-glucosamine; N-Acetylchitosamine; 2-Acetamido-2-deoxy-D-glucose; GlcNAc,N-Acetyl-D-glucosamine,1,C8H15NO6,221.0899,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C00357,N-Acetyl-D-glucosamine 6-phosphate,N-Acetyl-D-glucosamine 6-phosphate,1,C8H16NO9P,301.0563,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C03953,N-Acetylglucosamine 4-sulfate; N-Acetyl-D-glucosamine 4-sulfate,N-Acetylglucosamine 4-sulfate,1,C8H15NO9S,301.0468,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C04132,N-Acetyl-D-glucosamine 6-sulfate,N-Acetyl-D-glucosamine 6-sulfate,1,C8H15NO9S,301.0468,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C04256,N-Acetyl-D-glucosamine 1-phosphate,N-Acetyl-D-glucosamine 1-phosphate,1,C8H16NO9P,301.0563,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C04461,"N-Acetyl-D-glucosamine 1,6-bisphosphate; N-Acetyl-alpha-D-glucosamine 1,6-bisphosphate","N-Acetyl-D-glucosamine 1,6-bisphosphate",1,C8H17NO12P2,381.0226,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C00043,UDP-N-acetyl-alpha-D-glucosamine; UDP-N-acetyl-D-glucosamine; UDP-N-acetylglucosamine,UDP-N-acetyl-alpha-D-glucosamine,0.9167,C17H27N3O17P2,607.0816,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C03878,N-Acetyl-beta-D-glucosamine,N-Acetyl-beta-D-glucosamine,0.898,C8H15NO6,221.0899,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C20328,N-Acetyl-alpha-D-glucosamine,N-Acetyl-alpha-D-glucosamine,0.88,C8H15NO6,221.0899,,from_query=N Acetyl D glucosamine
+N-Acetyl-D-glucosamine,N-Acetyl-D-glucosamine,ambiguous,cpd:C00611,"N-Acetyllactosamine; beta-D-Galactosyl-1,4-N-acetyl-D-glucosamine; beta-D-Galactosyl-1,4-N-acetyl-beta-D-glucosamine",N-Acetyllactosamine,0.8293,C14H25NO11,383.1428,,from_query=N Acetyl D glucosamine
+4-Hydroxyphenylglycine,4-Hydroxyphenylglycine,ambiguous,cpd:C03493,D-4-Hydroxyphenylglycine; (alphaR)-alpha-Amino-4-hydroxybenzeneacetic acid,D-4-Hydroxyphenylglycine,0.9565,C8H9NO3,167.0582,,from_query=4 Hydroxyphenylglycine
+4-Hydroxyphenylglycine,4-Hydroxyphenylglycine,ambiguous,cpd:C12323,L-4-Hydroxyphenylglycine,L-4-Hydroxyphenylglycine,0.9565,C8H9NO3,167.0582,,from_query=4 Hydroxyphenylglycine
+Methionine sulfoxide,Methionine sulfoxide,no_hit,,,,,,,,no candidates returned by KEGG find
+"LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)",LysoPC 20:4 5Z 8Z 11Z 14Z /0:0,no_hit,,,,,,,,no candidates returned by KEGG find
+"1,3-Benzodioxolylbutanamine (BDB)",1 3-Benzodioxolylbutanamine BDB,no_hit,,,,,,,,no candidates returned by KEGG find

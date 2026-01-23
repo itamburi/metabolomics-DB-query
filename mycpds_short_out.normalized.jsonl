@@ -1,0 +1,50 @@
+{"input": "alpha-Tocopherol", "normalized": "Tocopherol", "flags": [], "synonyms": ["alpha-Tocopherol", "Tocopherol"], "must_disambiguate": []}
+{"input": "1-Methoxyphaseollidin", "normalized": "1-Methoxyphaseollidin", "flags": [], "synonyms": ["1 Methoxyphaseollidin", "1-Methoxyphaseollidin"], "must_disambiguate": []}
+{"input": "D-Ribose 5-phosphate", "normalized": "Ribose 5-phosphate", "flags": [], "synonyms": ["D-Ribose 5-phosphate", "Ribose 5 phosphate", "Ribose-5-phosphate", "ribose 5-phosphate"], "must_disambiguate": []}
+{"input": "4-Hydroxycinnamic acid", "normalized": "4-Hydroxycinnamic acid", "flags": [], "synonyms": ["4 Hydroxycinnamic acid", "4-Hydroxycinnamic-acid", "4-hydroxycinnamic acid", "4-Hydroxycinnamicate"], "must_disambiguate": []}
+{"input": "Dihydronaringenin-O-sulphate", "normalized": "Dihydronaringenin-O-sulphate", "flags": [], "synonyms": ["Dihydronaringenin O sulphate", "Dihydronaringenin-O-sulphate"], "must_disambiguate": []}
+{"input": "Pyridoxamine", "normalized": "Pyridoxamine", "flags": [], "synonyms": ["Pyridoxamine"], "must_disambiguate": []}
+{"input": "sphingosylphosphorylcholine", "normalized": "sphingosylphosphorylcholine", "flags": [], "synonyms": ["sphingosylphosphorylcholine"], "must_disambiguate": []}
+{"input": "Eplerenone", "normalized": "Eplerenone", "flags": [], "synonyms": ["Eplerenone"], "must_disambiguate": []}
+{"input": "Cervonyl carnitine", "normalized": "Cervonyl carnitine", "flags": [], "synonyms": ["Cervonyl carnitine", "Cervonyl-carnitine"], "must_disambiguate": []}
+{"input": "Indirubin", "normalized": "Indirubin", "flags": [], "synonyms": ["Indirubin"], "must_disambiguate": []}
+{"input": "cetrimonium", "normalized": "cetrimonium", "flags": [], "synonyms": ["cetrimonium"], "must_disambiguate": []}
+{"input": "SM(d18:1/16:1(9Z))", "normalized": "SM d18:1/16:1 9Z", "flags": [], "synonyms": ["SM(d18:1/16:1(9Z))", "SM d18:1/16:1 9Z", "SM-d18:1/16:1-9Z"], "must_disambiguate": []}
+{"input": "PS(18:0/18:0)", "normalized": "PS 18:0/18:0", "flags": [], "synonyms": ["PS(18:0/18:0)", "PS 18:0/18:0", "PS-18:0/18:0"], "must_disambiguate": []}
+{"input": "didecyldimethylammonium", "normalized": "didecyldimethylammonium", "flags": [], "synonyms": ["didecyldimethylammonium"], "must_disambiguate": []}
+{"input": "PC(14:0/16:0)", "normalized": "PC 14:0/16:0", "flags": [], "synonyms": ["PC(14:0/16:0)", "PC 14:0/16:0", "PC-14:0/16:0"], "must_disambiguate": []}
+{"input": "15beta-Hydroxydesogestrel", "normalized": "15beta-Hydroxydesogestrel", "flags": [], "synonyms": ["15beta Hydroxydesogestrel", "15beta-Hydroxydesogestrel"], "must_disambiguate": []}
+{"input": "3-Methylhistidine", "normalized": "3-Methylhistidine", "flags": [], "synonyms": ["3 Methylhistidine", "3-Methylhistidine"], "must_disambiguate": []}
+{"input": "Erythronic acid", "normalized": "Erythronic acid", "flags": [], "synonyms": ["Erythronic acid", "Erythronic-acid", "Erythronicate"], "must_disambiguate": []}
+{"input": "Porphobilinogen", "normalized": "Porphobilinogen", "flags": [], "synonyms": ["Porphobilinogen"], "must_disambiguate": []}
+{"input": "Cer(d18:0/16:0)", "normalized": "Cer d18:0/16:0", "flags": [], "synonyms": ["Cer(d18:0/16:0)", "Cer d18:0/16:0", "Cer-d18:0/16:0"], "must_disambiguate": []}
+{"input": "6-Keto-decanoylcarnitine", "normalized": "6-Keto-decanoylcarnitine", "flags": [], "synonyms": ["6 Keto decanoylcarnitine", "6-Keto-decanoylcarnitine"], "must_disambiguate": []}
+{"input": "Pyruvaldehyde", "normalized": "Pyruvaldehyde", "flags": [], "synonyms": ["Pyruvaldehyde"], "must_disambiguate": []}
+{"input": "PC(16:0/18:4(6Z,9Z,12Z,15Z))", "normalized": "PC 16:0/18:4 6Z 9Z 12Z 15Z", "flags": [], "synonyms": ["PC(16:0/18:4(6Z,9Z,12Z,15Z))", "PC 16:0/18:4 6Z 9Z 12Z 15Z", "PC-16:0/18:4-6Z-9Z-12Z-15Z"], "must_disambiguate": []}
+{"input": "5-Hydroxymethyl-4-methyluracil", "normalized": "5-Hydroxymethyl-4-methyluracil", "flags": [], "synonyms": ["5 Hydroxymethyl 4 methyluracil", "5-Hydroxymethyl-4-methyluracil"], "must_disambiguate": []}
+{"input": "2-Aminonicotinic acid", "normalized": "2-Aminonicotinic acid", "flags": [], "synonyms": ["2 Aminonicotinic acid", "2-Aminonicotinic-acid", "2-aminonicotinic acid", "2-Aminonicotinicate"], "must_disambiguate": []}
+{"input": "PG(18:1(9Z)/18:1(9Z))", "normalized": "PG 18:1 9Z /18:1 9Z", "flags": [], "synonyms": ["PG(18:1(9Z)/18:1(9Z))", "PG 18:1 9Z /18:1 9Z", "PG-18:1-9Z-/18:1-9Z"], "must_disambiguate": []}
+{"input": "Pyridoxal", "normalized": "Pyridoxal", "flags": [], "synonyms": ["Pyridoxal"], "must_disambiguate": []}
+{"input": "Glycerol 3-phosphate", "normalized": "Glycerol 3-phosphate", "flags": [], "synonyms": ["Glycerol 3 phosphate", "Glycerol-3-phosphate", "glycerol 3-phosphate"], "must_disambiguate": []}
+{"input": "Pentadecadienoic acid", "normalized": "Pentadecadienoic acid", "flags": [], "synonyms": ["Pentadecadienoic acid", "Pentadecadienoic-acid", "Pentadecadienoicate"], "must_disambiguate": []}
+{"input": "SM(d18:1/20:0)", "normalized": "SM d18:1/20:0", "flags": [], "synonyms": ["SM(d18:1/20:0)", "SM d18:1/20:0", "SM-d18:1/20:0"], "must_disambiguate": []}
+{"input": "Mevalonic acid", "normalized": "Mevalonic acid", "flags": [], "synonyms": ["Mevalonic acid", "Mevalonic-acid", "Mevalonicate"], "must_disambiguate": []}
+{"input": "Cyclodopa glucoside", "normalized": "Cyclodopa glucoside", "flags": [], "synonyms": ["Cyclodopa glucoside", "Cyclodopa-glucoside"], "must_disambiguate": []}
+{"input": "Flurandrenolide", "normalized": "Flurandrenolide", "flags": [], "synonyms": ["Flurandrenolide"], "must_disambiguate": []}
+{"input": "Aspartylglycosamine", "normalized": "Aspartylglycosamine", "flags": [], "synonyms": ["Aspartylglycosamine"], "must_disambiguate": []}
+{"input": "3-Methylglutaconic acid", "normalized": "3-Methylglutaconic acid", "flags": [], "synonyms": ["3 Methylglutaconic acid", "3-Methylglutaconic-acid", "3-methylglutaconic acid", "3-Methylglutaconicate"], "must_disambiguate": []}
+{"input": "Bosentan", "normalized": "Bosentan", "flags": [], "synonyms": ["Bosentan"], "must_disambiguate": []}
+{"input": "Barbital", "normalized": "Barbital", "flags": [], "synonyms": ["Barbital"], "must_disambiguate": []}
+{"input": "Ketamine", "normalized": "Ketamine", "flags": [], "synonyms": ["Ketamine"], "must_disambiguate": []}
+{"input": "PC(18:3(9Z,12Z,15Z)/19:1(9Z))", "normalized": "PC 18:3 9Z 12Z 15Z /19:1 9Z", "flags": [], "synonyms": ["PC(18:3(9Z,12Z,15Z)/19:1(9Z))", "PC 18:3 9Z 12Z 15Z /19:1 9Z", "PC-18:3-9Z-12Z-15Z-/19:1-9Z"], "must_disambiguate": []}
+{"input": "Caprylic acid", "normalized": "Caprylic acid", "flags": [], "synonyms": ["Caprylic acid", "Caprylic-acid", "Caprylicate"], "must_disambiguate": []}
+{"input": "Maleimide", "normalized": "Maleimide", "flags": [], "synonyms": ["Maleimide"], "must_disambiguate": []}
+{"input": "L-Dihydroorotic acid", "normalized": "Dihydroorotic acid", "flags": [], "synonyms": ["L-Dihydroorotic acid", "Dihydroorotic acid", "Dihydroorotic-acid", "Dihydrooroticate"], "must_disambiguate": []}
+{"input": "2-Hydroxybenzaldehyde", "normalized": "2-Hydroxybenzaldehyde", "flags": [], "synonyms": ["2 Hydroxybenzaldehyde", "2-Hydroxybenzaldehyde"], "must_disambiguate": []}
+{"input": "p-Acetaminobenzaldehyde", "normalized": "p-Acetaminobenzaldehyde", "flags": [], "synonyms": ["p Acetaminobenzaldehyde", "p-Acetaminobenzaldehyde"], "must_disambiguate": []}
+{"input": "4-Dodecylbenzenesulfonic acid", "normalized": "4-Dodecylbenzenesulfonic acid", "flags": [], "synonyms": ["4 Dodecylbenzenesulfonic acid", "4-Dodecylbenzenesulfonic-acid", "4-dodecylbenzenesulfonic acid", "4-Dodecylbenzenesulfonicate"], "must_disambiguate": []}
+{"input": "N-Acetyl-D-glucosamine", "normalized": "N-Acetyl-D-glucosamine", "flags": [], "synonyms": ["N Acetyl D glucosamine", "N-Acetyl-D-glucosamine"], "must_disambiguate": []}
+{"input": "4-Hydroxyphenylglycine", "normalized": "4-Hydroxyphenylglycine", "flags": [], "synonyms": ["4 Hydroxyphenylglycine", "4-Hydroxyphenylglycine"], "must_disambiguate": []}
+{"input": "Methionine sulfoxide", "normalized": "Methionine sulfoxide", "flags": [], "synonyms": ["Methionine sulfoxide", "Methionine-sulfoxide"], "must_disambiguate": []}
+{"input": "LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)", "normalized": "LysoPC 20:4 5Z 8Z 11Z 14Z /0:0", "flags": [], "synonyms": ["LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)", "LysoPC 20:4 5Z 8Z 11Z 14Z /0:0", "LysoPC-20:4-5Z-8Z-11Z-14Z-/0:0"], "must_disambiguate": []}
+{"input": "1,3-Benzodioxolylbutanamine (BDB)", "normalized": "1 3-Benzodioxolylbutanamine BDB", "flags": [], "synonyms": ["1,3-Benzodioxolylbutanamine (BDB)", "1 3 Benzodioxolylbutanamine BDB", "1-3-Benzodioxolylbutanamine-BDB", "1 3-benzodioxolylbutanamine bdb"], "must_disambiguate": []}
